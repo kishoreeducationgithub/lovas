@@ -52,8 +52,12 @@ export default function Footer() {
               <span className="text-2xl">🥭</span>
               <span className="font-playfair text-xl font-bold text-leaf dark:text-mango">
                 Mango<span className="text-mango dark:text-cream">Nest</span>
+  
               </span>
             </a>
+            <p className="text-xs sm:text-sm text-softbrown dark:text-cream/60 leading-relaxed max-w-sm">
+              Cultivating tropical excellence. We bring the rich heritage of organic, naturally tree-ripened Indian mangoes directly from our sunrise-dappled orchards straight to your table.
+            </p>
             <p className="text-xs sm:text-sm text-softbrown dark:text-cream/60 leading-relaxed max-w-sm">
               Cultivating tropical excellence. We bring the rich heritage of organic, naturally tree-ripened Indian mangoes directly from our sunrise-dappled orchards straight to your table.
             </p>
