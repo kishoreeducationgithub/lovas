@@ -58,9 +58,6 @@ export default function Footer() {
             <p className="text-xs sm:text-sm text-softbrown dark:text-cream/60 leading-relaxed max-w-sm">
               Cultivating tropical excellence. We bring the rich heritage of organic, naturally tree-ripened Indian mangoes directly from our sunrise-dappled orchards straight to your table.
             </p>
-            <p className="text-xs sm:text-sm text-softbrown dark:text-cream/60 leading-relaxed max-w-sm">
-              Cultivating tropical excellence. We bring the rich heritage of organic, naturally tree-ripened Indian mangoes directly from our sunrise-dappled orchards straight to your table.
-            </p>
             {/* Social icons */}
             <div className="flex space-x-3 pt-1">
               {socialLinks.map((social) => {
